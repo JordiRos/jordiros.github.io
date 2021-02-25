@@ -91,6 +91,17 @@ body {
     line-height: 1.40em;
 }
 
+.content-pico8 {
+    img {
+        width: 580px;
+    }
+}
+
+.content-dreams {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
 h1 {
     font-size: 40px;
 }
@@ -108,8 +119,4 @@ a {
     font-weight: bold;
     font-size: 18px;
     text-decoration: none;    
-}
-
-img {
-    width: 580px;
 }
